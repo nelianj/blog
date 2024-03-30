@@ -47,6 +47,11 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
+      - name: Sql
+        description: ''
+        percent: 20
+        icon: sql
+        icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'

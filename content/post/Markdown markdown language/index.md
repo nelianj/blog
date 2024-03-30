@@ -1,18 +1,18 @@
 ---
-title: Markdown Markup Languange
-subtitle: Hello there, this is a post about markdown markup language. What is that you ask, Markdown, the user-friendly markup language, simplifies text formatting for various documents and online content creation. Read further to know more.
+title: Markdown Markup Language
+subtitle: In this post we will be talking about markdown markup language. What is that you ask, Markdown, the user-friendly markup language, simplifies text formatting for various documents and online content creation. Read further to know more.
 
 # Summary for listings and search engines
-summary: Hello there, this is a post about markdown markup language. What is that you ask, Markdown, the user-friendly markup language, simplifies text formatting for various documents and online content creation. Read further to know more.
+summary: In this post we will be talking about markdown markup language. What is that you ask, Markdown, the user-friendly markup language, simplifies text formatting for various documents and online content creation. Read further to know more.
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2024-03-31T00:00:00Z'
+date: '2024-03-30T00:00:00Z'
 
 # Date updated
-lastmod: '2024-03-31T00:00:00Z'
+lastmod: '2024-03-30T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -45,6 +45,7 @@ Some common elements in Markdown syntax include:
 - Code blocks using backticks (\`)
 
 Markdown provides a convenient way to format text without the need for complex HTML coding, making it popular for quick and efficient document creation, especially for creating content for the web that requires basic formatting.
+
 
 
 
