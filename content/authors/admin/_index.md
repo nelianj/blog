@@ -75,6 +75,27 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/nelianj
+  - icon: etsy
+    icon_pack: fab
+    link: https://elibrary.ru/defaultx.asp
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/
+  - icon: mendeley
+    icon_pack: fab
+    link: https://www.mendeley.com/search/
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/my-orcid?orcid=0009-0004-8833-5303
+  - icon: autoprefixer
+    icon_pack: fab
+    link: https://independent.academia.edu/NeliaNjovu
+  - icon: archive
+    icon_pack: fas
+    link: https://arxiv.org/user/
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
