@@ -34,19 +34,19 @@ authors:
 
 The formatting of a report can depend on the specific requirements of your organization or educational institution. However, here are the main elements that are usually included in a report:
 
-    Title Page: This includes the report title, your name (or organization name), date, and possibly the report version number.
+1. Title Page: This includes the report title, your name (or organization name), date, and possibly the report version number.
 
-    Abstract (Summary): A brief description of the report's objectives, methodology, main findings, and conclusions. This is usually written after the title page.
+2. Abstract (Summary): A brief description of the report's objectives, methodology, main findings, and conclusions. This is usually written after the title page.
 
-    Introduction: An overview of the report's objectives, tasks, significance, and context.
+3. Introduction: An overview of the report's objectives, tasks, significance, and context.
 
-    Main Body: Contains the main information, results, and analysis of your work. This may include sections dedicated to methodology, research, data analysis, etc.
+4. Main Body: Contains the main information, results, and analysis of your work. This may include sections dedicated to methodology, research, data analysis, etc.
 
-    Conclusion: Summarizes your findings, draws conclusions, and may offer recommendations based on the results obtained.
+5. Conclusion: Summarizes your findings, draws conclusions, and may offer recommendations based on the results obtained.
 
-    References (or Sources): Lists all the sources of information you have used, cited, or referred to in the report.
+6. References (or Sources): Lists all the sources of information you have used, cited, or referred to in the report.
 
-    Appendices: If the report contains additional materials such as tables, graphs, program code, etc., they can be included in the appendices.
+7. Appendices: If the report contains additional materials such as tables, graphs, program code, etc., they can be included in the appendices.
 
 It's important to adhere to a consistent style and formatting throughout the report, as well as pay attention to the correctness of formatting tables, graphs, and citing sources.
 
