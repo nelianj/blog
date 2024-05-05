@@ -1,9 +1,9 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Making a game using python
+summary: Python is easy and really cool to work with,thus i used it to make a game
 tags:
   - Deep Learning
-date: '2016-04-27T00:00:00Z'
+date: '2024-05-05T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
